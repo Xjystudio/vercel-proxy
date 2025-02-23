@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://github.com/$1"
+      "destination": "https://09615324-ee9e-4370-b5b5-ced7afe79805-00-3s6r3xqv954s6.sisko.replit.dev"
     }
   ]
 }
